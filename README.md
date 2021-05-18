@@ -9,4 +9,5 @@ The only working cmd is [prefix]ping
 - [ ] Delete all channels cmd
 - [ ] Get administrator role
 - [ ] Spam channels with custom string (configured in config file)
+
 & more to go!
