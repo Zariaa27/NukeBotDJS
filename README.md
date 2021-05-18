@@ -16,3 +16,6 @@ In the same **config.json** file as the token, choose your prefix.
 - [ ] Spam @everyone command
 
 & more to go!
+
+# Credits
+*Zariaa#9003 on discord*
