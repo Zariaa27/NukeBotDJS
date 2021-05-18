@@ -1,1 +1,1 @@
-#NukeBot - For educational purposes only.
+# NukeBot - For educational purposes only.
