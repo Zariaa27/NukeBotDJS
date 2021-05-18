@@ -7,7 +7,7 @@ The only working cmd is [prefix]ping
 To make the bot work, [create an application and bot](https://discord.com/developers/applications), copy it's token and paste it in the config.
 In the same **config.json** file as the token, choose your prefix.
 
-## Work
+## Commands
 - [x] Ping command
 - [ ] Ban all command
 - [ ] Delete all channels cmd
